@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Constantin Belyaev](https://up.htmlacademy.ru/htmlcss/32/user/1883779).
-* Наставник: `Неизвестно`.
+* Наставник: [Алина Шаймиева](https://htmlacademy.ru/profile/id74223).
 
 ---
 
